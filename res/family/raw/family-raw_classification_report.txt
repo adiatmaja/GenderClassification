@@ -1,0 +1,10 @@
+Classification Report for Fold 5:
+Precision (Weighted): 0.6693
+Recall (Weighted): 0.6350
+F1-Score (Weighted): 0.6155
+ROC AUC: 0.6975
+
+Mean Weighted Precision: 0.6693
+Mean Weighted Recall: 0.6350
+Mean Weighted F1-Score: 0.6155
+Mean ROC AUC: 0.6975
