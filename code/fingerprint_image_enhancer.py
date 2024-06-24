@@ -521,7 +521,7 @@ class FingerprintImageEnhancer(object):
             rows, cols = np.shape(img)
             aspect_ratio = np.double(rows) / np.double(cols)
 
-            new_rows = 256                    # randomly selected number
+            new_rows = 256                   # randomly selected number
             new_cols = new_rows / aspect_ratio
 
             img = cv2.resize(img, (int(new_cols), int(new_rows)))
