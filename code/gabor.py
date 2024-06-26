@@ -3,12 +3,12 @@ import cv2
 from fingerprint_image_enhancer import FingerprintImageEnhancer
 
 # Source directories
-raw_base_dir = r'C:\Skripsi\GenderClassification\datasets\family\raw'
+raw_base_dir = r'C:\Skripsi\GenderClassification\datasets\socofing\raw'
 
 # Destination directories
-processed_base_dir_default = r'C:\Skripsi\GenderClassification\datasets\family\gabor'
-processed_base_dir_low = r'C:\Skripsi\GenderClassification\datasets\family\gabor-low'
-processed_base_dir_high = r'C:\Skripsi\GenderClassification\datasets\family\gabor-high'
+processed_base_dir_default = r'C:\Skripsi\GenderClassification\datasets\socofing\gabor'
+processed_base_dir_low = r'C:\Skripsi\GenderClassification\datasets\socofing\gabor-low'
+processed_base_dir_high = r'C:\Skripsi\GenderClassification\datasets\socofing\gabor-high'
 
 # Create output directories if they don't exist
 os.makedirs(processed_base_dir_default, exist_ok=True)

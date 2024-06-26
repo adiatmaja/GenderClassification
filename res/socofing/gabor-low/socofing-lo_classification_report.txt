@@ -1,0 +1,34 @@
+Classification Report for Fold 1:
+Precision (Weighted): 0.7434
+Recall (Weighted): 0.6933
+F1-Score (Weighted): 0.7127
+ROC AUC: 0.6806
+
+Classification Report for Fold 2:
+Precision (Weighted): 0.7656
+Recall (Weighted): 0.6408
+F1-Score (Weighted): 0.6748
+ROC AUC: 0.7033
+
+Classification Report for Fold 3:
+Precision (Weighted): 0.7475
+Recall (Weighted): 0.6792
+F1-Score (Weighted): 0.7034
+ROC AUC: 0.6887
+
+Classification Report for Fold 4:
+Precision (Weighted): 0.7366
+Recall (Weighted): 0.7033
+F1-Score (Weighted): 0.7173
+ROC AUC: 0.6398
+
+Classification Report for Fold 5:
+Precision (Weighted): 0.7547
+Recall (Weighted): 0.7475
+F1-Score (Weighted): 0.7509
+ROC AUC: 0.6872
+
+Mean Weighted Precision: 0.7496
+Mean Weighted Recall: 0.6928
+Mean Weighted F1-Score: 0.7118
+Mean ROC AUC: 0.6799
