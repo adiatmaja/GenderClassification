@@ -18,7 +18,7 @@ The research involves the following steps:
 1. **Data Collection**: Gathering a dataset of fingerprint images.
 2. **Preprocessing**: Processing images using Gabor filters with various parameters.
 3. **Classification**: Employing convolutional neural networks to extract relevant features and classify.
-4. **Evaluation**: Evaluating the model's performance using stratified k-fold cross-validation with 5 folds, based on weighted F1-score and AUC score. The result of each fold is stored in the `res` directory.
+4. **Evaluation**: Evaluating the model's performance using stratified k-fold cross-validation with 5 folds. The evaluation metrics (weighted F1-score and AUC score) reported are averages across all folds. The result of each fold is stored in the `res` directory.
 
 ## Conclusion
 
